@@ -1,0 +1,241 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Arvore de Herois Unificada" id="tree1">
+    <mxGraphModel dx="4816" dy="2972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="light-dark(#121212,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Doutor Estranho" vertex="1">
+          <mxGeometry height="60" width="170" x="310" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Thor" vertex="1">
+          <mxGeometry height="60" width="170" x="550" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="E&amp;nbsp;um estudioso&lt;br&gt;da magia?" vertex="1">
+          <mxGeometry height="90" width="220" x="420" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="n8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Hulk" vertex="1">
+          <mxGeometry height="60" width="170" x="670" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="n9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Homem-Aranha" vertex="1">
+          <mxGeometry height="60" width="170" x="940" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Sofre uma transformacao fisica&lt;br&gt;drastica ao ativar o poder?" vertex="1">
+          <mxGeometry height="90" width="220" x="770" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="n10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Capita Marvel" vertex="1">
+          <mxGeometry height="60" width="170" x="1070" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="n6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O poder surgiu de exposicao a&lt;br&gt;radiacao ou uma picada radioativa?" vertex="1">
+          <mxGeometry height="90" width="220" x="950" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="n2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="A origem do poder e magica ou&lt;br&gt;mitologica?" vertex="1">
+          <mxGeometry height="90" width="220" x="750" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="n14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Pantera Negra" vertex="1">
+          <mxGeometry height="60" width="170" x="1220" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="n15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Homem de Ferro" vertex="1">
+          <mxGeometry height="60" width="170" x="1450" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="A armadura e feita de vibranium&#xa;e ele e o rei de uma nacao africana?" vertex="1">
+          <mxGeometry height="90" width="220" x="1310" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="n16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Capitao America" vertex="1">
+          <mxGeometry height="60" width="170" x="1580" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="n12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Usa uma armadura tecnologica&#xa;completa como sua principal arma&#xa;de combate?" vertex="1">
+          <mxGeometry height="90" width="220" x="1440" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="n18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Gaviao Arqueiro" vertex="1">
+          <mxGeometry height="60" width="170" x="1800" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="n19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Viuva Negra" vertex="1">
+          <mxGeometry height="60" width="170" x="2020" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="n17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Luta majoritariamente a distancia,&#xa;usando arco e flecha?" vertex="1">
+          <mxGeometry height="90" width="220" x="1830" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="n11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Depende de uma armadura ou de&#xa;um soro cientifico para ter vantagem&#xa;sobre-humana?" vertex="1">
+          <mxGeometry height="90" width="220" x="1630" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="n1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O poder do heroi e sobre-humano,&lt;br&gt;e nao depende de tecnologia ou treinamento?" vertex="1">
+          <mxGeometry height="90" width="220" x="1180" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Superman" vertex="1">
+          <mxGeometry height="60" width="170" x="2270" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="n24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Supergirl" vertex="1">
+          <mxGeometry height="60" width="170" x="2480" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="n22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O personagem e do sexo masculino?" vertex="1">
+          <mxGeometry height="90" width="220" x="2350" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="n26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Lanterna Verde" vertex="1">
+          <mxGeometry height="60" width="170" x="2750" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="n28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Mulher Maravilha" vertex="1">
+          <mxGeometry height="60" width="170" x="2920" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="n29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Shazam" vertex="1">
+          <mxGeometry height="60" width="170" x="3200" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="n27" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O heroi tem origem ligada a&#xa;mitologia de deuses antigos / amazonas?" vertex="1">
+          <mxGeometry height="90" width="220" x="3030" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="n25" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Os poderes do heroi vem de um&#xa;anel energetico cosmico?" vertex="1">
+          <mxGeometry height="90" width="220" x="2810" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="n21" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O heroi nasceu em outro planeta" vertex="1">
+          <mxGeometry height="90" width="220" x="2580" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="n32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Super-choque" vertex="1">
+          <mxGeometry height="60" width="170" x="3320" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="n33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Batman" vertex="1">
+          <mxGeometry height="60" width="170" x="3550" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="n31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O heroi manipula eletricidade&#xa;como seu poder principal?" vertex="1">
+          <mxGeometry height="90" width="220" x="3390" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="n35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Flash" vertex="1">
+          <mxGeometry height="60" width="170" x="3770" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="n37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Arqueiro Verde" vertex="1">
+          <mxGeometry height="60" width="170" x="3930" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="n38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Cyborg" vertex="1">
+          <mxGeometry height="60" width="170" x="4180" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="n36" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O heroi usa um arco e flecha&#xa;como arma principal?" vertex="1">
+          <mxGeometry height="90" width="220" x="4040" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="n34" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O heroi é um velocista?" vertex="1">
+          <mxGeometry height="90" width="220" x="3830" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="n30" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O heroi usa uma capa classica ou&lt;br&gt;um sobretudo?" vertex="1">
+          <mxGeometry height="90" width="220" x="3610" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="n20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O heroi e de outro planeta&lt;br&gt;ou tem poderes concedidos por&lt;br&gt;divindades/entidades cosmicas?" vertex="1">
+          <mxGeometry height="90" width="220" x="3150" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n0" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Marvel?!" vertex="1">
+          <mxGeometry height="90" width="220" x="2090" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e0" edge="1" parent="1" source="n3" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n4" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="n3" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n5" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="n7" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n8" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="n7" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n9" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="n6" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n7" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="n6" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n10" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="n2" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n3" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="n2" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n6" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="n13" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n14" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="n13" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n15" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="n12" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n13" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="n12" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n16" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" edge="1" parent="1" source="n17" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n18" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" edge="1" parent="1" source="n17" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n19" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e14" edge="1" parent="1" source="n11" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n12" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e15" edge="1" parent="1" source="n11" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n17" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e16" edge="1" parent="1" source="n1" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n2" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e17" edge="1" parent="1" source="n1" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n11" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e18" edge="1" parent="1" source="n22" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n23" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e19" edge="1" parent="1" source="n22" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n24" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e20" edge="1" parent="1" source="n27" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n28" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e21" edge="1" parent="1" source="n27" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n29" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e22" edge="1" parent="1" source="n25" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n26" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23" edge="1" parent="1" source="n25" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n27" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e24" edge="1" parent="1" source="n21" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n22" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e25" edge="1" parent="1" source="n21" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n25" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e26" edge="1" parent="1" source="n31" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n32" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e27" edge="1" parent="1" source="n31" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n33" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e28" edge="1" parent="1" source="n36" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n37" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e29" edge="1" parent="1" source="n36" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n38" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e30" edge="1" parent="1" source="n34" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n35" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e31" edge="1" parent="1" source="n34" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n36" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e32" edge="1" parent="1" source="n30" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n31" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e33" edge="1" parent="1" source="n30" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n34" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e34" edge="1" parent="1" source="n20" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n21" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e35" edge="1" parent="1" source="n20" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n30" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e36" edge="1" parent="1" source="n0" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n1" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e37" edge="1" parent="1" source="n0" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="n20" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
