@@ -102,6 +102,8 @@ function exibirTelaInicial() {
   caixaTexto.style.display = "none";
   elImg.src = "imagens/genio.png";
 
+    elImg.classList.remove("imagem-folha");
+
   btnIniciar.style.display = "inline-block";
   btnSim.style.display = "none";
   btnNao.style.display = "none";
@@ -136,6 +138,7 @@ function atualizarTela() {
 
   if (noAtual instanceof NoFolha) {
     elImg.src = noAtual.imagem;
+    elImg.classList.add("imagem-folha");
     btnIniciar.style.display = "none";
     btnSim.style.display = "none";
     btnNao.style.display = "none";

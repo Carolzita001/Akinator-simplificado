@@ -16,8 +16,14 @@ body {
     border-radius: 16px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
     text-align: center;
-    width: 380px;
+
+    width: fit-content;
+    min-width: 380px;
+    max-width: 90vw;
+
     border: 1px solid rgba(233, 69, 96, 0.3);
+
+    box-sizing: border-box;
 }
 
 h1 {
@@ -31,7 +37,7 @@ h1 {
 }
 
 .genio-container {
-    width: 150px;
+    width: auto;
     margin: 0 auto 20px auto;
     display: flex;
     justify-content: center;
@@ -39,10 +45,15 @@ h1 {
 }
 
 #genio-img {
-    width: 100%;
+    width: 150px;
     height: auto;
     object-fit: contain;
     filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.4));
+}
+
+#genio-img.imagem-folha {
+    width: 500px;
+    max-width: 100%;
 }
 
 #pergunta-box {
