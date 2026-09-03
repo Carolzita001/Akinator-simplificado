@@ -8,21 +8,22 @@
 </head>
 <body>
     
-    <div class="container">
-
-        <h1>Akinator de Heróis</h1>
+   <div class="container">
+        <h1>Akinator</h1>
 
         <div class="genio-container">
-            <img id="genio-img" src="imagens/genio.png" alt="Gênio Akinator">
+            <img id="genio-img" src="imagens/genio.png" alt="Akinator">
         </div>
 
         <div id="pergunta-box">
-            <p>Pergunta?</p>
+            <p id="texto-exibido">Carregando...</p>
         </div>
     
         <div class="botoes">
-            <button id="btn-sim" onclick="responder('sim')">Sim</button>
-            <button id="btn-nao" onclick="responder('nao')">Não</button>
+            <button id="btn-iniciar">Começar Jogo</button>
+            <button id="btn-sim" class="btn-resposta">Sim</button>
+            <button id="btn-nao" class="btn-resposta">Não</button>
+            <button id="btn-reiniciar" class="btn-acao">Jogar Novamente</button>
         </div>
     </div>
 
