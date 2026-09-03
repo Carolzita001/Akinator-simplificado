@@ -1,0 +1,241 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="QfaanaA6XAAInSBToG6x">
+    <mxGraphModel dx="3342" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Doutor Estranho" vertex="1">
+          <mxGeometry height="60" width="170" x="750" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Thor" vertex="1">
+          <mxGeometry height="60" width="170" x="990" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Estudou magia?" vertex="1">
+          <mxGeometry height="90" width="220" x="860" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Hulk" vertex="1">
+          <mxGeometry height="60" width="170" x="1110" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Homem-Aranha" vertex="1">
+          <mxGeometry height="60" width="170" x="1380" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Sofre uma transformacao fisica&lt;br&gt;ao ativar o poder?" vertex="1">
+          <mxGeometry height="90" width="220" x="1210" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Capitã Marvel" vertex="1">
+          <mxGeometry height="60" width="170" x="1510" y="1215" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O poder surgiu de exposicao a&lt;br&gt;radiacao ou uma picada radioativa?" vertex="1">
+          <mxGeometry height="90" width="220" x="1390" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O poder é magico ou&lt;br&gt;mitologico?" vertex="1">
+          <mxGeometry height="90" width="220" x="1190" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Pantera Negra" vertex="1">
+          <mxGeometry height="60" width="170" x="1660" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Homem de Ferro" vertex="1">
+          <mxGeometry height="60" width="170" x="1890" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Sua armadura e feita de vibranium?" vertex="1">
+          <mxGeometry height="90" width="220" x="1750" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Capitao America" vertex="1">
+          <mxGeometry height="60" width="170" x="2020" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Possui Armadura?" vertex="1">
+          <mxGeometry height="90" width="220" x="1880" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Gaviao Arqueiro" vertex="1">
+          <mxGeometry height="60" width="170" x="2240" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Viuva Negra" vertex="1">
+          <mxGeometry height="60" width="170" x="2460" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Usa arco e flecha?" vertex="1">
+          <mxGeometry height="90" width="220" x="2270" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Usa armadura ou&amp;nbsp;&lt;br&gt;um escudo?" vertex="1">
+          <mxGeometry height="90" width="220" x="2070" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O poder do herói é sobre-humano?" vertex="1">
+          <mxGeometry height="90" width="220" x="1620" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Superman" vertex="1">
+          <mxGeometry height="60" width="170" x="2710" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Supergirl" vertex="1">
+          <mxGeometry height="60" width="170" x="2920" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O herói é homem?" vertex="1">
+          <mxGeometry height="90" width="220" x="2790" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Lanterna Verde" vertex="1">
+          <mxGeometry height="60" width="170" x="3190" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Mulher Maravilha" vertex="1">
+          <mxGeometry height="60" width="170" x="3360" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Shazam" vertex="1">
+          <mxGeometry height="60" width="170" x="3640" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O herói tem origem nas Amazonas?" vertex="1">
+          <mxGeometry height="90" width="220" x="3470" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O poder do herói vem de um&lt;br&gt;anel&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;cosmico?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="220" x="3250" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O herói nasceu em outro planeta?" vertex="1">
+          <mxGeometry height="90" width="220" x="3020" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Super-choque" vertex="1">
+          <mxGeometry height="60" width="170" x="3760" y="1225" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Batman" vertex="1">
+          <mxGeometry height="60" width="170" x="3990" y="1225" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O herói manipula eletricidade?" vertex="1">
+          <mxGeometry height="90" width="220" x="3830" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Flash" vertex="1">
+          <mxGeometry height="60" width="170" x="4210" y="1225" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Arqueiro Verde" vertex="1">
+          <mxGeometry height="60" width="170" x="4370" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1b3409;strokeColor=#0b1a02;fontColor=#ffffff;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Cyborg" vertex="1">
+          <mxGeometry height="60" width="170" x="4620" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="Usa um arco e flecha?" vertex="1">
+          <mxGeometry height="90" width="220" x="4480" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O herói é um velocista?" vertex="1">
+          <mxGeometry height="90" width="220" x="4270" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O herói usa capa ou&amp;nbsp;sobretudo?" vertex="1">
+          <mxGeometry height="90" width="220" x="4050" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="O herói é de outro planeta ou tem poderes&lt;div&gt;divinos?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="220" x="3590" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#152238;strokeColor=#0b0f19;fontColor=#ffffff;fontSize=11;align=center;verticalAlign=middle;rounded=1;" value="É da Marvel?!" vertex="1">
+          <mxGeometry height="90" width="220" x="2530" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-40" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-3" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-1" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-41" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-3" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-2" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-42" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-6" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-4" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-43" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-6" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-5" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-44" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-8" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-6" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-45" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-8" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-7" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-46" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-9" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-3" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-47" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-9" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-8" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-48" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-12" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-10" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-49" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-12" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-11" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-50" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-14" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-12" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-51" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-14" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-13" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-52" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-17" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-15" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-53" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-17" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-16" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-54" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-18" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-14" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-55" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-18" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-17" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-56" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-19" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-9" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-57" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-19" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-18" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-58" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-22" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-20" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-59" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-22" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-21" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-60" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-26" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-24" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-61" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-26" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-25" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-62" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-27" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-23" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-63" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-27" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-26" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-64" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-28" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-22" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-65" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-28" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-27" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-66" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-31" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-29" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-67" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-31" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-30" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-68" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-35" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-33" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-69" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-35" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-34" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-70" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-36" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-32" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-71" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-36" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-35" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-72" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-37" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-31" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-73" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-37" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-36" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-74" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-38" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-28" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-75" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-38" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-37" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-76" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-39" style="endArrow=block;html=1;strokeColor=#2e7d32;fontColor=#2e7d32;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-19" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_bTDGX_fOqhBYBKQthy-77" edge="1" parent="1" source="r_bTDGX_fOqhBYBKQthy-39" style="endArrow=block;html=1;strokeColor=#c62828;fontColor=#c62828;fontStyle=1;labelBackgroundColor=#ffffff;rounded=1;" target="r_bTDGX_fOqhBYBKQthy-38" value="Nao">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
