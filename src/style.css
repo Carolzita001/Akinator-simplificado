@@ -5,30 +5,30 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh; /* Permite que a tela estique verticalmente se o conteúdo crescer */
     margin: 0;
+    padding: 20px;     /* Margem de segurança para o container nunca colar nas bordas da tela */
+    box-sizing: border-box;
 }
 
 .container {
     background: rgba(22, 33, 62, 0.85);
     backdrop-filter: blur(10px);
-    padding: 30px;
+    padding: clamp(15px, 5vw, 30px); /* Padding dinâmico: menor em celular, maior no PC */
     border-radius: 16px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
     text-align: center;
 
-    width: fit-content;
-    min-width: 380px;
-    max-width: 90vw;
+    width: 100%;
+    max-width: 450px; /* Define o tamanho ideal no PC, mas encolhe livremente no celular */
 
     border: 1px solid rgba(233, 69, 96, 0.3);
-
     box-sizing: border-box;
 }
 
 h1 {
     color: #e9d045;
-    font-size: 24px;
+    font-size: clamp(20px, 4vw, 24px); /* Título diminui sutilmente em telas pequenas */
     margin-top: 0;
     margin-bottom: 20px;
     text-transform: uppercase;
@@ -37,7 +37,7 @@ h1 {
 }
 
 .genio-container {
-    width: auto;
+    width: 100%;
     margin: 0 auto 20px auto;
     display: flex;
     justify-content: center;
@@ -45,22 +45,26 @@ h1 {
 }
 
 #genio-img {
-    width: 500px;
+    width: 100%;
+    max-width: 260px; /* Reduzi levemente o gênio padrão para dar mais contraste de tamanho */
     height: auto;
     object-fit: contain;
     filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.4));
 }
 
 #genio-img.imagem-folha {
-    width: 700px;
-    max-width: 100%;
+    width: 100%;
+    max-width: min(420px, 55vh); /* Aumentou para até 420px no PC, limitando pela altura no mobile */
+    height: auto;
+    border-radius: 12px;
+    object-fit: cover;
 }
 
 #pergunta-box {
     background-color: #0f3460;
     padding: 20px;
     border-radius: 10px;
-    font-size: 16px;
+    font-size: clamp(14px, 3.5vw, 16px); /* Texto da pergunta se adapta ao celular */
     line-height: 1.5;
     margin-bottom: 25px;
     min-height: 50px;
@@ -74,10 +78,11 @@ h1 {
     display: flex;
     justify-content: space-between;
     gap: 15px;
+    flex-wrap: wrap; /* Se os botões não couberem lado a lado no celular, eles quebram linha automaticamente */
 }
 
 .botoes button {
-    flex: 1;
+    flex: 1 1 140px; /* Permite expandir, mas avisa que o tamanho mínimo ideal é 140px */
     background-color: #e94560;
     color: white;
     border: none;
